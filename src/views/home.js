@@ -562,7 +562,7 @@ const Home = (props) => {
           <div className="home-separator"></div>
           <div className="home-container32">
             <span className="bodySmall home-text89">
-              © 2023 myCompany, All Rights Reserved.
+              © 2024 Sandook Money, All Rights Reserved.
             </span>
             <div className="home-icon-group1">
               <svg
